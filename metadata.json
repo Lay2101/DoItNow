@@ -1,0 +1,6 @@
+{
+  "name": "DoItNow",
+  "description": "A student task manager to balance work and studies without missing important deadlines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
