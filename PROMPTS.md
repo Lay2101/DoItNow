@@ -1,4 +1,4 @@
-# PROMPTS.md - [Product name]
+# PROMPTS.md - DoItNow
 **Student:** MA Ma Lay · **Course:** MGMT 6110 · **Problem Set 1**
 **User sentence:** A Student opens this screen to check the tasks how many she/he done or has to do, and knows it worked when there are different highlight.
 **Live link:** https://doitnow-nine.vercel.app
